@@ -1675,7 +1675,7 @@ body {
 .cid-rlTf0bpKAn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background: linear-gradient(0deg, #f9f9f9, #f9f9f9);
 }
 .cid-rlTf0bpKAn .mbr-iconfont-social {
   font-size: 32px;
